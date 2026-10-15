@@ -1,0 +1,11 @@
+role,category,skills,description
+Data Scientist,AI & Data,"Python, SQL, Statistics, Machine Learning, Pandas, Data Visualization","Analyze data, build predictive models, and communicate insights."
+Machine Learning Engineer,AI & Data,"Python, Machine Learning, Scikit-learn, TensorFlow, Statistics, Git","Build, evaluate, and deploy machine-learning systems."
+Data Analyst,AI & Data,"SQL, Excel, Python, Data Visualization, Statistics, Power BI",Turn business data into clear reports and actionable insights.
+Frontend Developer,Software Development,"HTML, CSS, JavaScript, React, Git, Responsive Design","Create accessible, responsive user interfaces for the web."
+Backend Developer,Software Development,"Python, Java, SQL, APIs, Git, Data Structures","Build application logic, databases, and reliable services."
+Full Stack Developer,Software Development,"HTML, CSS, JavaScript, React, Python, SQL, APIs, Git",Develop both client-side and server-side web applications.
+Cybersecurity Analyst,Security,"Networking, Linux, Cybersecurity, Python, Risk Assessment, SIEM","Monitor systems, investigate threats, and reduce security risk."
+Cloud Engineer,Cloud & DevOps,"Linux, Networking, AWS, Docker, CI/CD, Python, Git",Build and maintain scalable cloud infrastructure.
+UI/UX Designer,Design,"Figma, Wireframing, Prototyping, User Research, Accessibility, Visual Design",Design intuitive digital experiences based on user needs.
+Business Intelligence Analyst,AI & Data,"SQL, Power BI, Excel, Data Visualization, Statistics, Communication",Create dashboards and insights that support business decisions.
